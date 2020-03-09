@@ -4,7 +4,7 @@ version: 1.1
 main: Prison\Main
 api: 3.0.0
 depend: [PurePerms, MineReset, EconomyAPI]
-description: "Prison plugin"
+description: "Prison plugins"
 permissions:
   prison.setrank:
     description: "Allows to use /setrank command"
